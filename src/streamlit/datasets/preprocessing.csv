@@ -1,0 +1,7 @@
+,Text,Methode
+14,Matelas Mémoire De Forme 180x200 X 20 Cm Très Ferme - Déhoussable Housse Lavable - 7 Zones De Confor MATELAS:<br />Â· Accueil : Ferme .<br />Â· Soutien,Initial
+14,matelas memoire de forme 180x200 x 20 cm tres ferme - dehoussable housse lavable - 7 zones de confor matelas:<br />a* accueil : ferme .<br />a* soutien,Unidecode
+14,matelas memoire de forme 180x200 x 20 cm tres ferme - dehoussable housse lavable - 7 zones de confor matelas:a* accueil : ferme .a* soutien,Suppression balise
+14,"['matelas', 'memoire', 'forme', 'tres', 'ferme', 'dehoussable', 'housse', 'lavable', 'zones', 'confor', 'matelas', 'accueil', 'ferme', 'soutien']",Tokenization
+14,"['matelas', 'memoire', 'forme', 'ferme', 'dehoussable', 'housse', 'lavable', 'zones', 'confor', 'matelas', 'accueil', 'ferme', 'soutien']",Remove stopwords
+14,"['matelas', 'memoire', 'forme', 'ferme', 'dehoussable', 'housse', 'lavable', 'zone', 'confor', 'matelas', 'accueil', 'ferme', 'soutien']",Lemmatization
